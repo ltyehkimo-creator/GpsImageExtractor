@@ -1,0 +1,644 @@
+[
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\FB_IMG_1790228003380.jpg",
+    "error": "OCR 未辨識到任何文字。",
+    "ocr_text": null,
+    "check_file": "C:\\GpsImageExtractor\\Check\\FB_IMG_1790228003380.jpg"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\IMG_2026-10-04-07500342.png",
+    "error": "OCR 未辨識到任何文字。",
+    "ocr_text": null,
+    "check_file": "C:\\GpsImageExtractor\\Check\\IMG_2026-10-04-07500342.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\IMG_2026-10-05-10385757.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "桐 花 牆\r\nPIKMIN\r\nAshley-m",
+    "check_file": "C:\\GpsImageExtractor\\Check\\IMG_2026-10-05-10385757.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\mmb_20260921091154.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "交 易 成 功\r\n2026 / 09 / 21 09 : 1 1 : 42\r\n轉 帳 金 額\r\n20 , 160\r\n轉 入 戶 名\r\n轉 入 帳 號\r\n轉 出 帳 號\r\n可 用 餘 額\r\n手 續 費\r\n金 資 序 號\r\n交 易 序 號\r\n備 註\r\n0 目 I 作 0\r\n( 803 ) 聯 邦 銀 行\r\n036100023842\r\n綜 合 活 期 儲 蓄 存\r\n0460840\r\n90cDF19\r\n陳 姿 諭",
+    "check_file": "C:\\GpsImageExtractor\\Check\\mmb_20260921091154.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260720-151445.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "二 八 和 平 公 園\r\n四 甲 六\r\n你 樂 器 : 銅 管 樂 團\r\n迷 你 樂 器 : 銅 管 樂 團\r\n黃 色 皮 克 敏 穿 戴 了 迷 你 樂 器 : 銅 管 樂",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260720-151445.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260913-184933.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "圖 書 館\r\n迷 你 書\r\n岩 石 皮 克 敏 穿 了 迷 你 !",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260913-184933.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260913-185215.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "公 車 站\r\n公 車 紙 模 型\r\n藍 色 皮 克 敏 穿 了 公 車 紙 模 型 !",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260913-185215.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260915-073630.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "餐 廳\r\n廚 師 帽 子\r\n冰 凍 皮 克 敏 穿 了 廚 師 帽 子 !",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260915-073630.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260917-173639.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "留\r\n次 分\r\n瀏 享\r\n覽\r\n讚 ○ 留\r\n皮 克 敏 (Pikmin\r\nBloo\r\nYi-Iin Chen · 4 小 時 ·\r\n今 天 發 現 了 一 張 漂 旯 花 點 ~\r\n49 · 894849\r\n2 · 301216\r\nCathédrale Notre-Dame d'Amiens\r\n距 離 : 0mPlace Notre Dame Amiens",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260917-173639.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260918-132448.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "BIoom) 台 湾 · · 加 入\r\nAries LO · 1 天 ·\r\n第 = 顆 開 打 , 一 般 華 麗 目 前\r\n有 免 券 位 , 需 要 飛 人 幫 助\r\n24 。 15 ' 34 · 3 \" N 120 。 31 ℃ 2 · 0 \" E\r\n台 中 港 三 井 。 ut 丨 et 摩 天 輪 美 菇 , 時 間\r\n提 前 預 計 1 2 : 44 左 右 開 搶 , 意 者 留 言\r\n| ' d 先 加 好 友 第 一 批 邀 請 , 免 券 搶 手\r\n速 , 其 餘 券 入\r\n丿\r\nf\r\n三 井 摩 天 輪\r\n距 離 : 345m 文 化 里 梧 棲 區\r\n梧 棲 三 井 。 Ut | et 的 大 地 標",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260918-132448.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260918-132730.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "三 facebook Q\r\n#AI 劇 # 短 劇 # 陸 劇 # 造 咖\r\n圖 / 微 博\r\n兩 部 A 丨 短 劇 紅 ,\r\n從 1500 萬 到 破 億 觀 看\r\n《 問 蒼 生 》 《 硯 邊 青 梅 》\r\n全 靠 創 作 者 一 人 獨 自 製 作\r\nBC 東 森 新 聞\r\n4 則\r\n, 、 田 12 次 分 早\r\n335\r\n讚\r\n○ 留\r\n分 享",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260918-132730.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260918-201236.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "咖 啡\r\n咖 啡 杯\r\n色 皮 克 敏 穿 了 咖 啡 杯 !",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260918-201236.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260919-164414.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "1688\r\n萬 訂 簽 4 % 2-3 房\r\n走 旦 中 和 制 震 地 標 南 山 中 學 旁 ) )\r\n世 界 公 舘\r\n外 觀 3D 塻 擬 示 意 圖 , 實 際 環 境 須 以 現 場 實 景 為 準 · 一\r\n166K 次 瀏 覽\r\n讚\r\n○ 留\r\n分 享\r\n皮 克 敏 明 信 片 牆\r\nPikmin Postca\r\n入\r\n黃 俊 諭 · 20 小 時 ·\r\n台 灣 美 照 覺 得 很 美\r\nPIKMIN ·\r\n生 命 之 樹\r\n2t0 M 、\r\n( 23 965300 20 · 0852540 )\r\n小 藍 色 菇\r\n3112\r\n讚\r\n○ 留\r\n分",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260919-164414.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260919-211938.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "00\r\n交 的\r\n56 , 260 點\r\n2 次 分",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260919-211938.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260920-092407.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "文 中 - Ⅱ 丨 ' i 北 市\r\n香 腸\r\n世 界 美 食\r\n香 腸\r\n岩 石 皮 克 敏 穿 了 昋 腸 !",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260920-092407.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260921-083727.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "人 16\r\n建 立 限 時 動\r\n高\r\n陳 世 偵\r\n粒 米\r\n態\r\n皮 克 敏 (Pikmin\r\nB | 00\r\n沈 夏 天 · 7 小 時 ·\r\n有 陸 軍 要 來 嗎 ? … 更 多\r\nPIKMIN ,\r\nUrbana · 0\r\n2t0 M 、 ;\r\nJOSé Antönio Carneir\r\nArcove\r\n一 般 華 蘑 菇\r\n40 , 923 點\r\n24 則 亠\r\n, 、 田 2 分 早\r\n319\r\n讚\r\n○ 留\r\n分 享",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260921-083727.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260921-085358.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "大 研 生 醫\r\n健 康 力\r\n1000 億 益 生 菌\r\n益 暢 敏\r\nProbiotics\r\nProbiotics\r\n1000 億\r\n1000 億\r\n50 億\r\n益 生 菌 含 量\r\n通 過\r\n未 通 過\r\n安 全 認 證\r\ndaikenshop.com\r\nFacebook\r\n大 研 生 醫 網 路 商 店\r\nDAIKEN SHOP\r\n· 日 本 跨 境 Q",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260921-085358.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260921-113550.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "× 下 班 的 媽 媽 才 有 靈 魂\r\n5 · 副 乾 酪 乳 桿 菌 BRAP-OI\r\n6 · 副 乾 酪 乳 桿 菌\r\nLCW23\r\n7 · 植 物 乳 桿 菌\r\nLP28\r\n8 · 副 乾 酪 乳 桿 菌\r\nLP33\r\n9 · 鼠 李 糖 乳 桿 菌\r\nLRH 1 1 3\r\n最 好 有 # 國 際 正 式 人 體 實 驗 且 有\r\n# 台 灣 抗 過 敏 功 效 專 利 比 較 有 保\r\n障 , 符 合 的 只 有 以 下 3 種 益 生 菌 :\r\n#A5 改 善 兒 童 氣 喘 丶 過 敏 性 鼻 炎 症\r\n狀\r\n#A6 減 輕 過 敏 性 鼻 炎 症 狀 、 藥 物 使\r\n用\r\n#LP33 降 低 過 敏 性 鼻 炎 的 症 狀 嚴 重\r\n度\r\n在 網 路 上 常 見 的 7 個 熱 門 品 牌 , 有\r\n加 益 生 菌 A5 、 A6 丶 LP33 的 只 有 以 下\r\n兩 個 產 品 :\r\n留",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260921-113550.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260921-131344.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "中 和 宏 璽 新 …\r\n我 的 包 裹\r\n未 領 取 已 領 取\r\n寄 包 裹\r\n0\r\n退 貨 狀 態\r\n詴 狩 宇 穖 別 媽 官 至 取\r\n管 理 室 # 25\r\n23 分 鐘 以 前\r\n姓 名 黃 0 逸 ( 108 號 3 樓 )\r\n內 谷 包 裹\r\n查 看 圖 片\r\n物 流 中 華 郵 政\r\n條 碼\r\n1789994996000\r\n備 註\r\n存 放 位 置\r\n【 位 置 】 管 理\r\n室\r\n管 理\r\n0 0",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260921-131344.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260922-151540.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "瀏 覽 Threads\r\n皮 克 敏 0 (Pikmin\r\nBloom) 台 灣 · · 加 入\r\nHung Chi · 5 天 ·\r\nU.S.A Bourne Bridge\r\n一 般 活 動 菇 卷 入\r\n588762638700 好 友 代 碼 自\r\n7 則 留 言\r\n316\r\n讚\r\n○ 留\r\n分 享\r\nReeI",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260922-151540.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260922-151607.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "三 facebook Q\r\n皮 克 敏 0 (Pikmin\r\nBloom) 台 灣 · · 加 入\r\nHung Chi · 5 天 ·\r\nU.S.A Bourne Bridge\r\n一 般 活 動 菇 卷 入\r\n588762638700 好 友 代 碼 自\r\n7 則 留 言\r\n316\r\n讚\r\n○ 留\r\n分 享",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260922-151607.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260923-085704.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "中 文 討 論 區 ( · · · 加 入\r\nAngeI Chen · 21 小 時 ·\r\n一 個 沒 有 被 關 切 的 國 際 技 能 競 賽 , 希\r\n望 大 家 都 可 以 為 台 灣 國 手 加 油 … 更 多\r\nRuRu\r\n一 起 步 !\r\n第 48 國 際 技 能 競 竇 國 手 加 油 ; !\r\n9 / 2210 : 39 上 午 “\r\n· 9 / 27 06 : 下 午\r\n回 :\r\n兒 童 帳 號 無 法 參 加 。\r\n啟 用 廣 告 封 鎖 程 式 時 , 邀 請 連 結 可 能 會 無 法 正 常 運 作 。\r\nPIE(MIN*\r\n分\r\n36",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260923-085704.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260923-091839.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "大 發 水 電 材 料 行\r\n二 八 張\r\n月 餅\r\n世 界 美 食\r\n0 0\r\n月 餅\r\n黃 色 皮 克 敏 穿 了 月 餅 !",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260923-091839.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260923-093253.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "好 想 去 泰 國 · 加 入\r\n金 剛 旅 行 社 LoveThai 樂 泰\r\n旅 遊 · 1 9 小 時 ·\r\n\\ # 今 年 曼 谷 昭 披 耶 河 年 度 光 影 煙 火\r\n盛 典 公 布 日 期 ! /\r\nVijit Chao Phraya 2026\r\n活 動 日 期 | 2026 / 11 / 13 一 12 / 13\r\n今 年 活 動 一 連 舉 辦 整 整 1 個 月 , 規\r\n模 再 升 級\r\n將 橫 跨 昭 披 耶 河 兩 岸 1 5 個 地 標 , 帶\r\n來 燈 光 秀 丶 光 影 展 演 及 精 彩 煙 火 , 整\r\n條 河 岸 都 超 有 看 頭 詳 細 表 演 時 間\r\n及 各 地 標 活 動 資 訊 , 等 待 後 續 官 方 公\r\n今 年 有 安 排 1 1 丶 12 月 去 曼 谷 的 先 把\r\n日 期 存 起 來\r\n大 家 期 待 嗎 ?",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260923-093253.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260923-114253.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "三 facebook Q\r\n雖 然 不 是 自 己 刷 到 的\r\n感 謝 好 皮 友\r\n選 皮 跟 配 色 都 好 美\r\n好 奇 這 樣 我 是 不 是 就 刷 不 到 這 張 了\r\nPyramide dU Louvre\r\ner A 「 「 · 巴 黎",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260923-114253.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260923-123114.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "的 下\r\n侍 枚\r\n數 金\r\n量 幣\r\n目 距\r\n206\r\n種 植 的 花 朵 總 數\r\n加 速 ,\r\nB005",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260923-123114.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260923-172011.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "G a 5G\r\nfK04\r\n崔 德 厚 和 20\r\n讚\r\n○ 留\r\n@ 傳 送\r\n皮 克 敏 明 信 片 牆\r\nPikmin Postca\r\n黃 怡 茹 · 7 小 時 ·\r\n紫 皮 真 是 太 壞 了\r\nPIKMIN\r\n途 上 的 「 喵\r\n2t0 ( 冖 M 、 i\r\n6 則 亠\r\n, 、 田 1 次 分 旱\r\n30188\r\n讚\r\n○ 留 言\r\n分 享\r\n工 商 時 報",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260923-172011.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260923-175906.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "Settings\r\nUpdate lnterval\r\n3000\r\n取 消\r\nBearing\r\n確 定\r\nSet gps bearing in degrees\r\nGIF\r\n在 這 裡 手 寫 輸 入 文 字 !\r\n? 123 ◎\r\n手 寫",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260923-175906.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260923-175934.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "Settings\r\nMaximum Distance\r\nMovement\r\n20\r\n取 消 確 定\r\n0 Randomize gps location\r\nthrough time\r\nGIF\r\n在 這 裡 手 寫 輸 入 文 字 !\r\n? 123 ◎\r\n手 寫",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260923-175934.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260923-203701.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "水\r\n擬 餌\r\n黃 色 皮 克 敏 穿 了 擬 誀 !",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260923-203701.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260923-211146.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "輕 鬆 走 過 每 個 上 下 坡 ! 70 歲\r\n解\r\n阿 罵 爬 步 道 的 活 力 秘 密\r\n65 · IK 次 瀏 覽\r\n37\r\n讚\r\n○ 留\r\n分 享\r\n皮 克 敏 (Pikmin\r\nB | 00\r\nNgöO Erica · 1 小 時 ·\r\n-31 · 9734790 ,\r\n1 15 · 8265400\r\n# 澳 洲 # 伯 斯 # 藍 色 小 屋\r\n0\r\nBlue Boat House\r\n一 般 菇\r\n23 , 988 點\r\n你 對 這 則 貼 文 有 興 趣 嗎 ?",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260923-211146.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260924-085711.png",
+    "error": "GPS 座標超出有效範圍：334.5419510 , 133.7870480",
+    "ocr_text": "iHDocO 髮 力 飛 “\r\n來 去 逛 逛 iHD0(\r\n40 則 留 言\r\n919\r\n讚\r\n○ 留\r\n分 享\r\n(Pikmin\r\nBloo\r\n張 郁 臻 · 4 小 時 ·\r\n334 · 5419510 , 133 · 7870480\r\n# 日 本 岡 山 # 菇 點 # 櫻 花 # 蘑 菇 休 息 的\r\n地 方\r\n丿 ZØ 休 憩 所\r\n距 離 : 159mKurashiki",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260924-085711.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260924-085730.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "8\r\n讚 Q 留\r\n皮 克 敏 (Pikmin\r\nB | 00\r\n時\r\n7\r\nTelefonmast på Kvistefiellet",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260924-085730.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260924-203448.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "皮 克 敏 (Pikmin\r\nB | 00\r\n李 靜 茹 · 41 分 鐘 ·\r\n35 · 17258 129 · 13110\r\n這 件 藝 術 品 不 只 可 愛 , 還 會 發 出 聲\r\n音 , 意 外 發 現 相 關 影 片\r\nhttps://youtu.be/TINy5w7Yt5c?si=\r\nmX7GuIr_-XArXMsE\r\n# 韓 國 # 釜 山 # 公 共 藝 術 # 成 東 勳\r\n# 聲 音 之 樹\r\nPIKMIN\r\nBLOC M 、\r\n小 灰 色 菇\r\n2 , 605 點",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260924-203448.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260925-090342.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "拉 麵 店\r\n拉 麵 鑰 匙 圏\r\n白 色 皮 克 敏 穿 了 拉 匙 !",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260925-090342.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260925-191625.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "皮 克 敏 0 (Pikmin\r\nBloom) 台 灣 · · 加 入\r\n雯 雯 溫 · 4 小 時 ·\r\n一 般 活 動 卷 入 可 邀\r\n帳 號 + 名 字\r\nFruit & Spice water bridge\r\n13 則 留 言\r\n8\r\n讚\r\n○ 留\r\nIKEA",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260925-191625.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260926-175921.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "享\r\n讚 留\r\n皮 克 敏 (Pikmin\r\nB | 00\r\nP030P · 37 分 鐘 ·\r\n想 請 問 有 人 知 道 這 張 圖 的 座 標 嗎 ?\r\n找 好 久 都 沒 看 到 · ·\r\n# 観 音 寺\r\n観 音 寺\r\n距 離 : 1 8mAizumisat0\r\n享\r\n讚\r\n○ 留",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260926-175921.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260926-180732.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "分 享\r\n留\r\n皮 克 敏 明 信 片 牆\r\nPikmin Postca\r\n張 蝶 · 1 小 時 ·\r\n徵 求 願 意 收 , 我 覺 得 站 位 不 完 美 明 亻\r\n亠 ll[l\r\n片 的 陸 軍 “ 更 多\r\nPII(MIN\r\n0 丨 af and Sv n\r\nB 0 孓\r\n灣 湖\r\nPIKMIN\r\nPIKMIN\r\nPIKMIN\r\nkiesboom\r\n滑 草 場\r\naLCJ: M\r\neLC'1 M•\r\na LO M 、\r\n0 。\r\n112 則 留 言\r\n32\r\n讚\r\n○ 留\r\n分 享",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260926-180732.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260929-125300.png",
+    "error": "OCR 未辨識到任何文字。",
+    "ocr_text": null,
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260929-125300.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260929-172512.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "Q +\r\n三 facebook\r\nTOKEN2049 」\r\nS G A P 0 R E\r\nHuang\r\nReåoiÅay (Ting Yin..\r\n黃 文 昌\r\nLis\r\n皮 克 敏 0 (Pikmin\r\nBloom) 台 灣 · 加 入\r\nKeIIyWang · 4 刁 \\ 時\r\n連 假 開 工 第 一 天 的 驚 喜\r\n“ 更 多\r\nPIKMIN\r\n2t0 M 、\r\n( · 16.3982130\r\n2 則 留 言\r\n讚\r\n○ 留\r\n分 享",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260929-172512.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260929-185540.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "你 的 步 數\r\n9 月 29 日 星 期 二\r\n8785\r\n步 數\r\nIOK\r\n5 K\r\n60W3 步 數\r\n本 週 平 均 步 數\r\n目 前 為 止 的 合 計 步 數 2 47 , 044",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260929-185540.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260929-193645.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "3 · 7K 次 瀏 覽\r\n3117\r\n讚\r\nQ 留\r\n分 享\r\n皮 克 敏 明 信 片 牆 |\r\nPikmin Postca\r\n入\r\n黃 怡 茹 · 1 天 ·\r\n锣 你 幹 嘛 啦\r\nPIKMIN\r\nLa Catedra' 丶 - Arequipa\r\n2L0 ( 一 M 、 ,\r\n阿 基 帕\r\n3\r\n12 則 留 言\r\n0 38\r\n讚\r\n○ 留\r\n分",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260929-193645.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260929-220016.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "這 句 詁 我 其 實 很 有 格 來 聊 聊 。\r\n因 為 我 不 是 去 日 本 住 幾 個 月 , 也 不\r\n是 只 去 旅 遊 過 幾 次 。\r\n查 看 更 多\r\n01 , 034 ○ 42 1 9\r\n、 陳 姿 諭 和 其 他\r\n一 人 也 都 在 使 用 Threads 。\r\n瀏 覽 Threads\r\n皮 克 敏 (Pikmin\r\nB | 00\r\n蔡 艾 玲 · 1 1 分 鐘 ·\r\n37 · 764632 -122 · 419207\r\n美 國 舊 金 山\r\n# 菇 點\r\nPBKMIN 、\r\nA etsMur\r\nBLCC Mx\r\n小 Va ss\r\nn F an ( 04 ,\r\n一 般 華 菇\r\n1 日 | | 刀",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260929-220016.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20260929-220122.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "310\r\n讚\r\n○ 留\r\n分 享\r\n皮 克 敏 (Pikmin\r\nB | 00\r\nLoveIyFrog5593 · 1 3 分 鐘 ·\r\n投 球 遊 樂 設 施\r\n51 · 1 575060 , 2 · 7527470\r\n# 比 利 時 # 菇 點\r\nBalvanger\r\nE abe | 00n\r\n! PIKMIN\r\nSLCC\r\n巨 大 華 蘑 菇\r\n35 , 401 點",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20260929-220122.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261001-074609.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "皮 克 敏 明 信 片\r\n是 我 資 訊 落 後 嗎\r\n剛 剛 才 發 現\r\n淡 水 紅 樓 從 菇 點 變 花 點 了\r\n之 前 搶 不 到\r\n現 在 可 以 一 直 刷 片 送 好 友 了\r\n三 民 街 2 巷 永\r\n巨 大 海 泡 泡 菇\r\n13L961 點\r\n2 則 留\r\n313",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261001-074609.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261001-074611.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "皮 克 敏 明 信 片\r\n是 我 資 訊 落 後 嗎\r\n剛 剛 才 發 現\r\n淡 水 紅 樓 從 菇 點 變 花 點 了\r\n之 前 搶 不 到\r\n現 在 可 以 一 直 刷 片 送 好 友 了\r\n三 民 街 2 巷 永\r\n巨 大 海 泡 泡 菇\r\n13L961 點\r\n2 則 留\r\n313",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261001-074611.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261001-082955.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "B | 00\r\n匿 名 參 與 者 · 25 分 鐘 ·\r\n有 人 知 道 這 張 的 座 標 嗎 ? 怎\r\n麼 掃 都 掃 不 到 , 掃 到 懷 疑 人\r\n應 該 還 在\r\n吧 ?\r\n, 片 是 網 路 上 找 到 的 , 如 有 不 妥 請 告\r\n知 , 會 撤 文 , 謝 謝\r\n# 詢 問 # 隱 藏 明 信 片 # 拉 斯 維 加 斯\r\nPIKMIN\r\nVegas Eiffel Tower\r\nBracken 拉 斯 加 斯\r\n2\r\n讚\r\n○ 留\r\n分 享",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261001-082955.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261001-225317.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "\\ 0",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261001-225317.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261002-073208.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "5 次 分 享\r\n386\r\n讚 ○ 留\r\n分 享\r\n皮 克 敏 0 (Pikmin\r\nBloom) 台 灣 · · 加 入\r\n曾 煥 然 · 6 天 ·\r\n巨 大 美 菇 卷 入 可 邀\r\n自 飛 座 標 : 34 · 1 55208 , 134 · 440611\r\n八 ㄡ · 七 一 ㄡ 風 車\r\n距 離 : Om 板 野 町",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261002-073208.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261003-110223.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "三 facebook Q +\r\n皮 克 敏 0 (Pikmin\r\nBloom) 台 灣 · · 加 入\r\n詹 侑 得 · 1 1 小 時 ·\r\n巨 菇 免 券 ? 別 再 海 巡 找 戰 力\r\n跟 蘑 菇 , 直 接 來 免 費 即 時 組\r\n更 多\r\nPII(MIN\r\nGrinsekatze\r\n2t0 Mx\r\npeter- nsqqÆtraße lle\r\n近 : 2026 年 月 28m\r\nMushroomSquad 金 幣 : 116\r\n用 凫 , 的\r\n作 為 V\r\n有 1 門 在 等 你 上 收 的 美 片 ,\r\n月 定\r\n64 則 留 言 11 次 分 享\r\n88",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261003-110223.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261003-111128.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "皮 克 敏 明 信 片 牆\r\nPikmin Postca\r\n羅 岳 群 · 1 天 ·\r\n新 北 市 新 店 區\r\n教 堂 在 台 灣 應 該 算 很 大 了 吧\r\n聖 母 堂\r\n中 正\r\n地 中 情 壁 畫\r\n」 中 華 里\r\nPIKMIN\r\nB 0 ( M 、\r\nPIKMIN\r\nBLO( My",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261003-111128.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261003-193037.png",
+    "error": "OCR 未辨識到任何文字。",
+    "ocr_text": null,
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261003-193037.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261003-214905.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "丶 、",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261003-214905.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261004-091103.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "三 facebook Q +\r\n2026 · to\r\n1 則 留 言\r\n08\r\n讚\r\n○ 留\r\n分 享\r\n皮 克 敏 明 信 片 牆\r\nPikmin Postca\r\n陳 曉 慧 · 1 小 時 ·\r\n這 張 有 人 有 嗎 ?\r\nPIKMIN\r\nCa Sakura Ca Captors\r\nB 0 M 、\r\nTlGmdz G\r\n, erdade",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261004-091103.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261004-101648.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "立 即 安 裝\r\n五 口\r\n3135\r\n讚 ○ 留\r\n皮 克 敏 0 (Pikmin\r\nBIoom) 台 灣\r\n· 加 入\r\n藍 莓 · · 6 天 ·\r\n已 邀 滿\r\n美 片 可 邀 5 希 望 能 帶 高 戰 ~ 想 拿 金 框\r\nLechfalI\r\n距 離 : 9 , 431 , 959m 菲 森",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261004-101648.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261004-141657.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "皮 克 敏 飛 人 討 論 區\r\n加 入\r\n林 妤 · 18 小 時 ·\r\n美 片 巨 大 活 動 菇\r\n卷 入 自 飛\r\n50 · 81660 , 6 · 766 · 1\r\nBurg Konradsheim\r\n距 離 : OmFrenzenstraße Konradsheim Erftstadt\r\nErfrstadt-Konradsheim",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261004-141657.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261004-175257.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "4 + 艮 態\r\n時 皮\r\n動 克\r\nCu\"CfiCy\r\nRed0tP\r\nLechfall\r\n距 離 : 9 , 398 , 075mMaxsteg Füssen",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261004-175257.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261004-175338.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "B 、 00\r\n, 0 0 , \" 0 、 09\r\nOO 0 , \" 0 、 09",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261004-175338.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261004-181016.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "航 空 工 業 服 務 · 日 本 常 滑 市\r\n名 古 屋 中 部 空 港 Gate 17\r\n儲 存\r\n@Jin Lin 和 4\r\n讚\r\n○ 留\r\n@ 傳 送\r\n皮 克 敏 飛 人 討 論 區\r\n加 入\r\n黃 莉 婷 · 1 3 小 時 ·\r\n半 夜 得 到 這 張 皮 皮 送 來 的 片 , 真 感 動\r\nPIKM/N\r\nheona n\r\n2 則 留\r\n29",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261004-181016.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261005-043534.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "La Gctrnison Francaise De TreverIS\r\n距 離 : 62mHerzogenbuscher Straße Trier-Nord\r\nTrier\r\nErichtet durch den am Christihimelfahrtstage\r\n3 TEN Mai 1842\r\nGeweiht am 0 No Ⅵ 1 842",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261005-043534.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261005-065303.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "B | 00\r\n匿 名 參 與 者 · 7 小 時 ·\r\n美 艷 人 物 像 漫 畫 風 格\r\n花 點\r\n-27 · 5617410 , 1 53 · 0694220\r\n適 合 麻 將 撲 克 牌 遊 戲 卡 匣 ?\r\n# 漫 畫 人 物 風 # 微 哥 德 風 # 壁 畫\r\n# 澳 洲 昆 士 蘭\r\nPII(MIN\r\nRackthem up baby!\r\nKessels Road 0\r\n1 .q",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261005-065303.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261005-070150.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "f000b00k Q\r\n。 。 K 0 「 1 天 · 0\r\n人 要 一 打 J 。 k 。 , 巨 菇 嗎 ?\r\n〕 oke r\r\nㄒ 0P0 \\ 00 、 0 , 00d0d de Mé 丶 i00\r\n〕 00q 屲 n phoenix",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261005-070150.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261005-081434.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "21 則 留 言\r\n330\r\n讚\r\n○ 留\r\n皮 克 敏 0 (Pikmin\r\nBloom) 台 灣 · · 加 入\r\n力 、 · 1 7 小 時 ·\r\n霍 格 華 茲 城 堡 換 飾 品 大 頭\r\n換 換 我 沒 有 的 飾 品 大 頭\r\n有 複 數 我 可 以 重 複 掃\r\n不 挑 站 位 ~\r\nH09w0 0 e at Universal Studi0S Hollywood ,\r\nUniversal ity plaza\r\n2",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261005-081434.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261005-095016.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "Q +\r\n三 facebook\r\nNikki\r\n08\r\n讚\r\n○ 留\r\n分 享\r\n~ 皮 克 敏 0 (Pikmin\r\nBloom) 台 灣 · · 加 入\r\nG0bby Lee · 23 刁 \\ 時 ·\r\n大 元 素\r\n卷 入 可 邀 5\r\nGipfelkreuz Reuterwanne\r\n距 離 : 9 , 407 , 685m 韋 爾 塔 赫",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261005-095016.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261005-102646.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "inside.com/tw\r\n企 業 AI 時 代 怎 麼 確 保 資 料 安 全 ? 從 身\r\n份 治 理 到 資 料 韌 性 的 防 禦 指 南 - INSIDE\r\n1 次 分 享\r\n1 0\r\n讚\r\n○ 留\r\n分 享\r\n皮 克 敏 明 信 片 牆\r\nPikmin Postca\r\n小 小 鴻 · 1 1 小 時 ·\r\n這 張 算 漂 亮 嗎 ?\r\nPII(MIN\r\n若 山 旅 人 歌 碑\r\nB 0 (\r\n立 川 町\r\n3 則 留 言\r\n313\r\n讚\r\n○ 留\r\n分 享",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261005-102646.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261005-141543.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "建 立 限 時 動 - '\r\n葁 欽\r\n1 : 05 : 53\r\n一 慶 福\r\n皮 克 敏 0 (Pikmin\r\nBloom) 台 灣 · · 加 入\r\nJessica peng · 5 小 時\r\n這 幾 天 去 刷 了 三 張 隱 形 片 , 很 幸 運 6\r\n次 以 內 刷 到 , 美 美 美 , 跟 大 家 分 享\r\nPII(MIN\r\nFa 0n0 de | 0 nata t de La 09 da Familia\r\nB 0 M 、\r\nEixample 巴 塞\r\nPIKMIN\r\n3 LC - M\r\n30\r\n30\r\n1 則 留 言 1 次 分 享\r\n24\r\n分 享\r\n留",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261005-141543.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261005-141606.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "1 1 5 次 分 享\r\n留\r\n3144\r\n亠 lld\r\n讚\r\n○ 留\r\n分 享\r\n皮 克 敏 飛 人 討 論 區\r\n0 6 自\r\n力 有\r\n3 月\r\n8\r\n2\r\n8 力\r\n3 女\r\n6 何\r\n更 多\r\nMural EI Panda.\r\n距 離 : 14 , 684 , 743mC0 Ⅱ e ChiItiupan ResidenciaI\r\nSanta Teresa Ciudad Merliot\r\nMural que representa 0 un Panda ubicado\r\nsobre calle",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261005-141606.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261005-183908.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "4 十 限 態\r\n* 洲 步 行\r\nGARMIN\r\nETF. 正 強 不 . g\r\n淡 水 河 畔 公 一\r\n103 甲\r\n股 點 討\r\n時 皮 ::t\r\n動 克 景\r\n103 · , ,\r\n1 : 05 : 53\r\n8 凢 又\r\nPonte in Pietra L090 Blu\r\n距 離 : 9 , 749 , 158mChemin de Ve 「 「 0 Ayas",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261005-183908.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261005-204451.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "ERR\r\n抱 水 ∕\r\nBRAGADA MU\r\n皮 克 敏 明 信 片 牆\r\nPikmin Postca\r\n金 守 婷 · 22 小 時 ·\r\n晚 上 好 , 在 此 謝 謝 世 界 各 地 的 皮 友 ,\r\n無 私 的 贈 送 美 片 和 邀 打 美 片 菇 , 有 你\r\n妳 們 真 好 。 下 午 受 邀 打 的 美 片 菇 , 剛\r\n打 完 收 到 。\r\n, 彩 虹 屋\r\n中 正 路 正 濱 里\r\n30\r\n一 般 萬 聖 節 菇",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261005-204451.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261006-153601.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "指 定 好 禮 6 選\r\n指 定 好 禮 選 3\r\n後 返 k 氵 折 價 券\r\n後 pCh 。 m ,\r\n: - 卜 次 gÆ G00 e\r\n1 0 / 8 限 定 ! 指 定 品 滿 額 “\r\n來 去 逛 逛\r\n31\r\n讚\r\nQ 留\r\n皮 克 敏 明 信 片 牆\r\nPikmin Postca\r\n花 藝 女 王 米 娜 老 師 · 1 小 時 ·\r\n太 帥 了\r\n# 隱 藏 萬 聖 節 皮 卡 丘\r\n! Pll(filN\r\nP 0\r\n2t0 Mx¯\r\ny 0 , i6 50d0 | d9 「 0 | Ciud\r\neMéxi\r\n30",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261006-153601.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261006-192257.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "讚 ○ 留\r\n皮 蔡 2 儂\r\n克 蕫 我\r\n2 你 火\r\n2 忒 有\r\n9 多\r\n4 清 中\r\n3 多 有\r\n「 似 我\r\n# 花 點\r\nPIKM/N\r\nTMAS\r\nPICO\r\n2 則 留 言\r\n1 8\r\n讚 ○ 留",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261006-192257.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261008-064613.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "1 則 留 言\r\n2\r\n讚\r\n○ 留\r\n分 享\r\n皮 克 敏 0 (Pikmin\r\nBloom) 台 灣 · · 加 入\r\n曾 煥 然 · 1 5 小 時 ·\r\n應 景 美 菇 卷 入 可 邀 ( 已 四 星 )\r\n自 飛 座 標 : 52 · 51 1862 , -0 · 267262\r\nSt. Peters Church YaxIey\r\n距 離 : 0mYaxIey Peterborough\r\nChurch of St Peter in Church Street YaxIey,\r\nparts ofthe church date back to the 1 2 小\r\ncentury.\r\n17 則 留 言 1 次 分 享\r\n318",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261008-064613.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261008-120546.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "she\r\n立 即 安 裝\r\n五 口\r\n9 · 3K 次 瀏 覽\r\n62\r\n讚\r\nQ 留\r\n分 享\r\n皮 克 敏 (Pikmin\r\nB | 00\r\n彭 孟 婷 · 2 小 時 ·\r\n53 · 621471 , 1 1 · 416270\r\n隱 藏 點 撿 果 實 比 較 好 拿 到 ~\r\n# 德 國 # 城 堡 # 隱 藏 點\r\n.PIKMIN\r\nKreuzkanaI Schlossgarten\r\n2 0 M 、\r\nLennéstraße sch 、 Merin\r\n30",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261008-120546.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261008-193330.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "投\r\nIQ , 一 口\r\n亠 = 口\r\n3305\r\n黃 舌 免\r\n· · 加 入\r\n1 1 小 時 ·\r\n動 券\r\n一 美\r\n3 8",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261008-193330.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261009-140553.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "× 商 業 周 刊 ( 商 周.com/ Q\r\n責 任 與 費 用 , 讓 租 屋 管 理 回 歸 專 業 與\r\n長 期 穩 定 。\r\n深 入 了 解 SAND partners 如 何 打 破 傳\r\n統 責 任 斷 點 , 建 立 安 心 出 租 新 標 準 。\r\n完 整 專 訪 :\r\nhttps://bwnet.pse.is/9pnfph\r\n#PoweredbyAIifeH01dings\r\n#SANDPartners # 包 租 代 管 # 租 金 墊\r\n付 # 修 繕 保 障 # 房 東 必 看\r\nSAND PARTNERS\r\n房 子 交 給 代 管 , 租 客 遲 繳 誰 承 擔 ? 住 居\r\n管 理 聯 盟 SAND partners 讓 出 租 風 “\r\n留",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261009-140553.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261011-161333.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "三 facebook Q +\r\n蔡 艾 玲 > 皮 克 敏 ( Pik …\r\n51 分 鐘 ·\r\n34 · 669642 135 · 506401\r\n# 日 本 # 大 阪 道 頓 崛 # 相 撲 力 士 # 花 點\r\n道 頓 関\r\naka-ChüöWa\r\n2\r\nPII(MIN\r\nOC",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261011-161333.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261012-103425.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "中 和 宏 璽 新 …\r\n我 的 包 裹\r\n未 領 取\r\n已 領 取\r\n寄 包 裹\r\n退 貨 狀 態\r\n請 持 手 機 識 別 碼 到 管 理 室 領 取\r\n管 理 室 # 434\r\n益 圖 片\r\n8 分 鐘 以 前\r\n姓 名 葉 0 子 ( 108 號 3 樓 )\r\n內 容 一 般 掛 號\r\n物 中 華 郵 政\r\n331 53810224518\r\n條 碼\r\n備 註\r\n235000\r\n0 0\r\n0 0\r\n【 位 置 】 管 理\r\n存 放 位 置",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261012-103425.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261012-144225.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "> … · 加 入\r\nCJ Chan\r\n1 天 ·\r\n竟 然 收 到 如 此 浪 漫 的 明 信 片 , 太 感 動\r\n了 ! 謝 謝 你 AA\r\nLovely Heart\r\n中 山 路 三 段 枋 山 村\r\n叼 、 妞\r\n留\r\n00 《",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261012-144225.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261013-131640.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "口 口\r\n秀 朗\r\n萬 聖 節 : 彩 繪 玻 璃\r\n萬 聖 節 : 彩 繪 玻 璃\r\n黃 色 皮 克 敏 穿 戴 了 聖 節 : 彩 繪 玻 璃 !",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261013-131640.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261014-131604.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "三 facebook Q +\r\n9 , 125 44 則 留 言 255 次 分 享 2M 次 瀏 覽\r\n讚\r\n○ 留 言\r\n分 享\r\n皮 克 敏 (Pikmin\r\nB | 00\r\n匿 名 參 與 者 · 25 分 鐘 ·\r\n坐 標 31 · 249228 / 130 · 564079\r\n很 漂 亮 的 鳥 居 一 覺 得 很 新 鮮 。\r\n黄 金 鳥 居\r\n一 般 藍 色 菇",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261014-131604.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261014-131714.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "皮 克 敏 (Pikmin\r\nB | 00\r\nNI NI• 4 小 時 ·\r\n22 · 2940 , 1 14 · 1754\r\n終 於 從 一 堆 手 印 中 畢 業 太 感 動 了\r\n上 一 次 那 麼 多 的 尼 斯 湖 貓 貓 已 放 棄\r\n# 隱 藏\r\n# 吉 依 卡 哇\r\n# 摩 天 輪\r\n金 光 閃 閃 迴\r\n梳 士 巴 利 道\r\n312\r\nPIKMIN\r\n2t0 , Ms¯\r\n30\r\n2 則",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261014-131714.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261017-132736.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "8 則 亠\r\n, 、 田 1 次 分 早\r\n3086\r\n讚\r\n○ 留\r\n分 享\r\n皮 克 敏 (Pikmin\r\nB | 00\r\n蔡 艾 玲 · 1 小 時 ·\r\n· 37 · 558002 126 · 605952\r\n夢 幻 漸 層 的 暮 色 天 際\r\n# 韓 國 仁 川 # 菇 點\r\nPIKMIN- 「\r\nSeo-gu\r\n大 粉 紅 色 菇\r\n. 52 , 707 點\r\n5",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261017-132736.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261019-063156.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "家 長 接 噩 耗 崩 潰\r\n留 享\r\n讚\r\nQ 留\r\n皮 克 敏 (Pikmin\r\nB | 00\r\nⅥ AN · 8 小 時 ·\r\n# 魔 幻 菇\r\n有 哪 位 大 神 知 道 這 張 的 座 標 嗎 … 更 多\r\nH0n905 M6gicos\r\n巨 大 節 菇\r\n18L034 點\r\n9 則 留 言 1 次 分 享\r\n61",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261019-063156.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261020-062038.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "去 刀\r\n、 。 隨 天 外 雲 卷 雲 舒 」\r\n田 忌 ,\r\n拚 的 是 體 力 和 人 生 智 慧\r\n建 議 閱 讀 清 單\r\n《 小 窗 幽 記 》 : 明 代 陳 繼 儒\r\n2 · 《 菜 根 譚 》 : 明 代 洪 應 明 收 集 編 著\r\n3 · 《 圍 爐 夜 話 》 : 清 代 王 永 彬\r\n並 稱 為 中 國 修 身 養 性 的 「 三 大 奇 書 」\r\n00",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261020-062038.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261020-065338.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "終 生 用\r\n第 十 七 夭\r\n第 十 九 天\r\n第 十 六 天\r\n第 十 八 天\r\n黃 仁 勳 傳\r\n巴 菲 特\r\n9 次 分 享 104K 次 瀏 覽\r\n385\r\n讚\r\n○ 留 言\r\n分 享\r\n皮 克 敏 花 點 明 信 片\r\n大 集 合 · 加 入\r\n李 宜 真 · 21 小 時 ·\r\n這 張 算 美 吧\r\nCave of the Ancients\r\n一 ( 1 L3523390 , 162 · 3430780 )\r\n巨 大 神 秘 菇\r\n122 , 031 點\r\n7 則 留 言 3 次 分 享\r\n204\r\n讚\r\n○ 留\r\n分 享",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261020-065338.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261020-170456.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "三 facebook Q\r\n彤 苡 寧 · 的 貼 文\r\n分 享\r\n讚 Q 留\r\nPII(MIN\r\n0 00 Kultu 「 Y i Nauki 1955\r\n分 享\r\n讚 ○ 留 。\r\nPIKMIN\r\n0 c KlJltury i Nauki 1955\r\nB 0 M<\r\n21 867 (visit\r\n30",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261020-170456.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261020-170512.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "= facebook Q +\r\n彤 苡 寧 · 的 貼 文\r\nZega na Patacu Kultury i Nauk\r\n.PIKMIN\r\nBLCC M 、\r\n30\r\n讚\r\n○ 留 言\r\n分 享\r\nLa Catedra\r\n.PIKMIN\r\n2L0 M 、\r\n1 3982 , · 71\r\n30\r\n留",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261020-170512.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261020-170526.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "三 facebook Q +\r\n彤 苡 寧 · 的 貼 文\r\n_PIKMIN\r\nHa 0d5\r\nB 0 M 、\r\n30\r\n分 享\r\n讚 ○ 留 言\r\nHarrods\r\nry.com/\r\nPII(M/N",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261020-170526.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261020-202807.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "黃\r\n留\r\n次 分\r\n分 享\r\n琴\r\n5 亠 lld\r\n留\r\n皮 克 敏 (Pikmin\r\nB | 00\r\nLacaiIIe666 · 1 小 時 ·\r\n首 爾 樂 天 世 界 魔 幻 島 magic\r\nisland\r\n37 · 5090190 , 1271000170 ( 隱\r\n藏 )\r\n# 韓 國 # 樂 天 世 界 # 魔 幻 島 # 隱 藏 點\r\nPII(MIN\r\nMagicIsland\r\n2h1000170 )\r\n( 37 · 5090190\r\n2 則 留 言 1 次 分 享\r\n338",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261020-202807.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261022-102534.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "三 facebook Q +\r\n1 ' ~ 至 忄 A PPXDC 」\r\n省 下 來 的 那 筆 錢 , 後 來 呢\r\n湯 大 僑 和 735\r\n311 則 留 言 86 次 分 享\r\n讚\r\n○ 留\r\n分 享\r\n皮 克 敏 明 信 片 牆\r\nPikmin Postca\r\npei Ⅷ · 4 天 ·\r\n熱 門 菇 。 額 滿 好 美\r\nPIKMIN\r\nLechfall\r\n2t0 , M€-\r\n30\r\n巨 大 萬 節 菇\r\n185 , 419 點\r\n, 、 田 3 分 早\r\n76",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261022-102534.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261022-102609.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "三 facebook Q +\r\n皮 克 敏 0 (Pikmin\r\nBloom) 台 灣 討 論 區\r\nPIeasantOIive5709 · 23 分\r\n鐘 ·\r\n求 救 一 般 活 動 , 免 4 , 需 自 飛\r\n42 · 51 5981 , 140 · 378743\r\n西 念 寺 Ø 鐘 楼\r\n距 離 : 361 m 長 萬 咅 阝 町 長 萬 部\r\n毎 日 17 時 Ø 時 刻 告 、",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261022-102609.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261023-043943.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "Q +\r\n三 facebook\r\n讚 ○ 留\r\n皮 克 敏 (Pikmin\r\nB | 00\r\n彭 孟 婷 · 4 小 時 ·\r\n: 35 · 852432 129 · 269274\r\n是 菇 點 ! 但 高 機 率 幾 天 後 就 會 消 失 了\r\n# 韓 國 # 石 碑 # 萬 聖 節 # 菇 點\r\nPiKMiN-\r\n7 則 亠\r\n, 、 田 2 分 早\r\n311",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261023-043943.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261023-185513.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "讚\r\n○ 留\r\n分 享\r\n皮 克 敏 飛 人 討 論 區\r\n加 入\r\n沈 夏 天 · 1 1 小 時 ·\r\n如 果 有 陸 軍 , 想 券 入\r\n有 四 位 可 邀 請\r\n不 用 高 戰 力\r\n座 標 1 1 · 352339 , 1 62 · 343078\r\n歡 迎 自 飛\r\n不 用 高 戰 力 唷 !\r\n喜 歡 收 集 美 片\r\n平 日 只 有 一 個 大 聲 公\r\n希 望 大 聲 公 能 用 到 完 美\r\nCave Of the Ancients\r\n距 離 : 0m\r\nA cave filled with ancient memories",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261023-185513.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261023-190017.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "26 則 亠\r\n, 、 田 2 分 早\r\n3285\r\n讚\r\n○ 留\r\n分 享\r\n皮 克 敏 0 (Pikmin\r\nBloom) 台 灣 · · 加 入\r\nSiri Hong · 17 小 時 ·\r\n一 般 活 動 菇 , 免 卷 -3\r\n太 平 島 八 景 之 最 - 日 治 舊 棧 道\r\n距 離 : Om\r\n位 在 太 平 島 東 南 角 的 棧 道 水 泥 基 座 ,\r\n是 日 治 時 期 留 存 至 今 的 歷 史 遺 跡 。",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261023-190017.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261023-194119.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "Q +\r\n三 facebook\r\n2 則 留 言\r\n1 5\r\n讚\r\n○ 留\r\n皮 克 敏 明 信 片 牆 |\r\nPikmin Postca\r\n花 藝 女 王 米 娜 老 師 · 2 小 時 ·\r\nOn fire\r\n# 台 灣 美 片 # 火 炎 山\r\nPII(MIN\r\n火 炎 山 自 然 保 留 區\r\n140 縣 道 南 勢 里\r\n30\r\n~ 小 紅 色 菇\r\n留\r\n51",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261023-194119.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261024-122710.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "態\r\n皮\r\n蠆 # # GO\r\n十 你 艮\r\n# 00f *Letln #LetinOn L OH\r\nLET\r\nLET DOWN\r\n享\r\n星 期 六\r\n加 入\r\n沈 夏 天 · 1 8 小 時 ·\r\n德 國 , 跟 北 海 道 孤 獨 的 樹 , 風 景 很 像\r\n座 標 47 · 942468 , 1 2 · 176667\r\n有 免 券 位\r\n歡 迎 自 飛\r\n今 日 沒 有 大 聲 公 了\r\n謝 謝 皮 友\r\nFeIdkreuz Vogtareuth",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261024-122710.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261025-094956.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "使 用 Threads 。\r\n瀏 覽 Threads\r\n皮 克 敏 飛 人 討 論 區\r\n匿 名 參 與 者 · 1 小 時 ·\r\n衝 四 星 巨 大 美 片\r\n47 · 57959 , 1 0 · 74679\r\nSt Coloman\r\n距 離 : 9 , 332 , 714mColomanstraße Schwangau",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261025-094956.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261025-095016.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "St Coloman\r\n距 離 : 9 , 332 , 714mColomanstraße Schwangau\r\n留\r\n皮 克 敏 花 點 明 信 片\r\n大 集 合\r\nSweetApricotI 441 · 3 小 時\r\n向 陽 而 生\r\n35 · 1 410440 , 138 · 7853460\r\nPII(MIN\r\n浮 島 0 05\r\n2",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261025-095016.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261025-113423.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "三 facebook Q +\r\n嚴 密 防 護 質 感 升 級\r\n新 品 上 市\r\n3.3K 次 瀏 覽\r\n分 享\r\n東 森 新 聞\r\n蹤\r\nEBC\r\n東 新 聞\r\n1 小 時 ·\r\n日 本 規 模 7 · 0 強\r\nOfl\r\n202 則 留 言 31 次 分 享\r\n331 , 090",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261025-113423.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261027-073807.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "14 則 留 言 5 次 分 享\r\n3298\r\n讚 ○ 留\r\n分 享\r\n皮 克 敏 (Pikmin\r\nB | 00\r\n沈 夏 天 · 14 小 時 ·\r\n60 · 792405 , 1 1 · 041002\r\n# 金 字 塔 # 挪 威 # 菇 點\r\n不 是 羅 浮 宮\r\nPIKMIN-\r\nDomkirkeruinene\r\nStrandvegen Storhamar\r\n一 般 節 菇\r\n14 , 502 點\r\n1 /",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261027-073807.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261027-084110.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "皮 克 敏 明 信 片 牆 |\r\nPikmin Postcard\r\nWaIl\r\n小 危 - 哈 利 危 亞 · 2 小 時 ·\r\n112215326909\r\n美 片\r\n活 動 菇\r\n可 邀\r\nC01egiata De Santa Maria La\r\nMayor, Alquezar\r\n距 離 : 0mAfueras Alquézar\r\nLa Coleaiata de Alauezar. es una",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261027-084110.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261027-084408.png",
+    "error": "GPS 座標超出有效範圍：343.192264 , 141.007116",
+    "ocr_text": "回 覆\r\n田 ·\r\n皮 克 敏 (Pikmin\r\nB | 00\r\nYENYUJIE• 18 刁 \\ 時 ·\r\n343 · 192264 , 141 · 007116\r\n金 色 的 史 努 比 , 超 級 可 愛\r\n金 色 Ø ㄡ ㄡ 一 匕 一\r\n距 離 : 21m0f0 「 u\r\nㄡ ㄡ 一 匕 一 茶 屋 小 樽 店 ㄡ ㄡ 一 匕 一 像 。",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261027-084408.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261027-130126.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "30\r\n讚\r\n○ 留\r\n分\r\n皮 克 敏 (Pikmin\r\nBloo\r\nGina Yen · 38 分 鐘\r\n漂 美 菇 還 有 四 個 空 位\r\n唷 !\r\n座 標 位 置 : 47 · 235485 , 1 1 · 877450\r\n位 於 奧 地 利 策 爾 貝 格 (zellberg) 的\r\n聖 約 瑟 夫 小 教 堂 (st. Josef\r\nKapelle) 。\r\n好 像 上 了 油 畫 一 樣 漂 亮\r\nSt. 」 osef KapelIe",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261027-130126.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261027-193707.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "你 的 步 數\r\n10 月 27 日 星 期 二\r\n26\r\n27\r\n2 8\r\n29\r\n本 週 平 均 步 數\r\n30\r\n1 5 K\r\nIOK\r\n丆 5 K\r\n」 步 數\r\n目 前 為 止 的 合 計 步 數 2 , 393 , 260",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261027-193707.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261028-105557.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "32 ~\r\n建 立 限 時 動\r\n姜 耀 欽\r\nRedotPay\r\n皮 克 敏 明 信 片 牆\r\nPikmin Postca\r\n花 藝 女 王 米 娜 老 師 · 1 9 小 時\r\n曾 被 外 媒 評 選 為 最 美 小 路 之\r\n# 台 灣 美 片 # 宜 蘭 太 平 山 # 見 晴 步 道\r\n見 晴 步\r\nPII(MIN\r\n2t0 Mx¯\r\n( 24 · 5051 0 , 12 !\r\n30\r\n小 粉 紅 色 菇\r\n25 則 亠\r\n, 、 田 4 分 早\r\n268\r\n讚\r\n○ 留\r\n分 享",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261028-105557_99d81925d14d44aea237bff6634beafc.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261028-145936.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "cohere.com\r\nConcerning behavior from a popular\r\nopen-weight AI modell C0here\r\n1 , 168\r\n讚\r\n75 則 留 言 533 次 分 享\r\n○ 留 言\r\n分 享\r\n皮 克 敏 (Pikmin\r\nBloo\r\n彭 孟 婷 · 4 小 時 ·\r\nf42 · 467045 , 18 · 763561\r\n搭 白 皮 真 的 是 簡 單 好 看\r\n# 蒙 特 內 哥 羅 # 城 堡 # 夕 陽 # 湖\r\nCrkva Svetog Eustahii\r\nstaza 00br0f0\r\nPII(MIN",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261028-145936_626cf15832474254bbd185d2b6468d89.png"
+  },
+  {
+    "file": "C:\\GpsImageExtractor\\Input\\Screenshot_20261028-182507.png",
+    "error": "未辨識到十進位 GPS 座標（預期格式：緯度, 經度）。",
+    "ocr_text": "Q +\r\n三 facebook\r\n陳 世 偵 和 3\r\n讚\r\n○ 留 言\r\n@ 傳 送\r\n· Meta AI app\r\n陳 志 堅 , 歡 迎 試 用 免 費 AI 工 具",
+    "check_file": "C:\\GpsImageExtractor\\Check\\Screenshot_20261028-182507.png"
+  }
+]
